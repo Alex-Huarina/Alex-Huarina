@@ -72,10 +72,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Alex-Huarina/Alex-Huarina/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
